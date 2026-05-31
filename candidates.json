@@ -1,0 +1,7559 @@
+[
+  {
+    "id": "cand_0001",
+    "name": "Jyoti Nair",
+    "title": "Backend Engineer",
+    "company": "Chargebee",
+    "industry": null,
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Docker",
+      "JavaScript",
+      "Negotiation",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0002",
+    "name": "Jyoti Malhotra",
+    "title": "Content Marketing Specialist",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Google Ads",
+      "HubSpot",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0003",
+    "name": "Aniket Verma",
+    "title": "Technical Support Specialist",
+    "company": "MoEngage",
+    "industry": "computer software",
+    "location": "Chennai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0004",
+    "name": "Arjun Mishra",
+    "title": "Product Manager",
+    "company": "BrowserStack",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 4,
+    "skills": [
+      "Analytics",
+      "Data Analysis",
+      "Product Strategy",
+      "Project Management",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0005",
+    "name": "Ramya Dubey",
+    "title": "Product Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Gurgaon",
+    "years_experience": 3,
+    "skills": [
+      "A/B Testing",
+      "Project Management",
+      "Roadmapping",
+      "SQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0006",
+    "name": "Apoorva Gupta",
+    "title": "Customer Success Associate",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Churn Reduction",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Negotiation",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0007",
+    "name": "Payal Pandey",
+    "title": "Content Marketing Specialist",
+    "company": "Marico",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Google Ads",
+      "HubSpot",
+      "SEO",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0008",
+    "name": "Neha Menon",
+    "title": "Senior Product Manager",
+    "company": "Practo",
+    "industry": "hospital & health care",
+    "location": "Chennai",
+    "years_experience": 6,
+    "skills": [
+      "A/B Testing",
+      "Analytics",
+      "Communication",
+      "Product Strategy",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0009",
+    "name": "Vivek Iyer",
+    "title": "Customer Success Specialist",
+    "company": "BCG India",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 10,
+    "skills": [
+      "Account Management",
+      "Negotiation",
+      "QBRs",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0010",
+    "name": "Asha Saxena",
+    "title": "Business Development Manager",
+    "company": "Navi",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 0,
+    "skills": []
+  },
+  {
+    "id": "cand_0011",
+    "name": "Faisal Khan",
+    "title": "Customer Success Specialist",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Kolkata",
+    "years_experience": 12,
+    "skills": [
+      "Negotiation",
+      "Renewals",
+      "Salesforce",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0012",
+    "name": "Apoorva Mehta",
+    "title": "Account Executive",
+    "company": "DMart",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0013",
+    "name": "Sneha Chopra",
+    "title": "Client Relationship Manager",
+    "company": "BrowserStack",
+    "industry": "computer software",
+    "location": "Gurgaon",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0014",
+    "name": "Pranav Mishra",
+    "title": "Full Stack Developer",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Bangalore",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Docker",
+      "JavaScript",
+      "Project Management",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0015",
+    "name": "Aniket Mishra",
+    "title": "Key Account Manager",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Kolkata",
+    "years_experience": 8,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0016",
+    "name": "Faisal Rao",
+    "title": "Onboarding Specialist",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0017",
+    "name": "Ananya Pillai",
+    "title": "Onboarding Specialist",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0018",
+    "name": "Sourav Mishra",
+    "title": "Senior Customer Success Manager",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Gurgaon",
+    "years_experience": 1,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Salesforce",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0019",
+    "name": "Kabir Khan",
+    "title": "Enterprise Account Manager",
+    "company": "LTIMindtree",
+    "industry": null,
+    "location": "Hyderabad",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0020",
+    "name": "Farhan Patel",
+    "title": "Business Development Manager",
+    "company": null,
+    "industry": "information technology and services",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0021",
+    "name": "Asha Pandey",
+    "title": "Account Executive",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0022",
+    "name": "Chirag Khan",
+    "title": "Implementation Manager",
+    "company": null,
+    "industry": "insurance",
+    "location": "Bangalore",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0023",
+    "name": "Chirag Joshi",
+    "title": "Senior Customer Success Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Gainsight",
+      "Onboarding",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0024",
+    "name": "Mohit Ghosh",
+    "title": "Support Team Lead",
+    "company": "LTIMindtree",
+    "industry": "information technology and services",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0025",
+    "name": "Zara Chauhan",
+    "title": "Support Team Lead",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0026",
+    "name": "Nikhil Mehta",
+    "title": "Customer Success Manager",
+    "company": null,
+    "industry": "information technology and services",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Data Analysis",
+      "Negotiation",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0027",
+    "name": "Arpit Menon",
+    "title": "Client Relationship Manager",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0028",
+    "name": "Payal Patel",
+    "title": "CS Operations Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Pune",
+    "years_experience": 5,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Negotiation",
+      "Project Management",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0029",
+    "name": "Shreya Pillai",
+    "title": "Customer Success Specialist",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Customer Success",
+      "Gainsight",
+      "Negotiation",
+      "Project Management",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0030",
+    "name": "Sneha Patel",
+    "title": "Onboarding Specialist",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": []
+  },
+  {
+    "id": "cand_0031",
+    "name": "Farhan Agarwal",
+    "title": "Implementation Manager",
+    "company": "Ogilvy India",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0032",
+    "name": "Aniket Chauhan",
+    "title": "Customer Success Lead",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Success",
+      "Gainsight",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0033",
+    "name": "Payal Kulkarni",
+    "title": "Solutions Engineer",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 10,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "Kubernetes",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0034",
+    "name": "Apoorva Chauhan",
+    "title": "Onboarding Specialist",
+    "company": "Airtel",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 8,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0035",
+    "name": "Pranav Kapoor",
+    "title": "Customer Success Lead",
+    "company": null,
+    "industry": "hospital & health care",
+    "location": "Bangalore",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "QBRs",
+      "Renewals",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0036",
+    "name": "Vikram Dubey",
+    "title": "Customer Service Manager",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0037",
+    "name": "Shreya Mukherjee",
+    "title": "Support Team Lead",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0038",
+    "name": "Vivek Kulkarni",
+    "title": "Implementation Consultant",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0039",
+    "name": "Chirag Sharma",
+    "title": "Backend Engineer",
+    "company": "Lendingkart",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Data Analysis",
+      "Kubernetes",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0040",
+    "name": "Yash Kulkarni",
+    "title": "Head of Customer Success",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Project Management",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0041",
+    "name": "Tanvi Ghosh",
+    "title": "Head of Customer Success",
+    "company": "BrowserStack",
+    "industry": "computer software",
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Negotiation",
+      "QBRs",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0042",
+    "name": "Payal Joshi",
+    "title": "Strategic Account Manager",
+    "company": "Navi",
+    "industry": "financial services",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0043",
+    "name": "Kavya Pandey",
+    "title": "Full Stack Developer",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Chennai",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Docker",
+      "Project Management",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0044",
+    "name": "Riya Sharma",
+    "title": "Senior Account Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0045",
+    "name": "Jyoti Rao",
+    "title": "Implementation Manager",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Gurgaon",
+    "years_experience": 4,
+    "skills": [
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0046",
+    "name": "Varun Gupta",
+    "title": "Senior Account Manager",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0047",
+    "name": "Naina Iyer",
+    "title": "Senior Customer Success Manager",
+    "company": "Shiprocket",
+    "industry": "logistics and supply chain",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "Gainsight",
+      "Onboarding",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0048",
+    "name": "Kiran Chopra",
+    "title": "Marketing Manager",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Chennai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Google Ads",
+      "HubSpot",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0049",
+    "name": "Divya Nair",
+    "title": "Customer Success Specialist",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Data Analysis",
+      "Renewals",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0050",
+    "name": "Rohan Menon",
+    "title": "Implementation Consultant",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0051",
+    "name": "Kiran Verma",
+    "title": "Customer Success Lead",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Gurgaon",
+    "years_experience": 9,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Onboarding",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0052",
+    "name": "Siddharth Nair",
+    "title": "Customer Success Manager",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Account Management",
+      "Customer Success",
+      "Onboarding",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0053",
+    "name": "Kavya Bose",
+    "title": "Implementation Consultant",
+    "company": null,
+    "industry": "management consulting",
+    "location": "Kolkata",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0054",
+    "name": "Aditi Ghosh",
+    "title": "CS Operations Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": 15,
+    "skills": [
+      "Customer Success",
+      "Data Analysis",
+      "Negotiation",
+      "Onboarding",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0055",
+    "name": "Meera Mehta",
+    "title": "Customer Onboarding Manager",
+    "company": null,
+    "industry": "computer software",
+    "location": "Mumbai",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0056",
+    "name": "Yash Rao",
+    "title": "Customer Success Associate",
+    "company": "upGrad",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 2,
+    "skills": [
+      "Customer Success",
+      "Data Analysis",
+      "Gainsight",
+      "Negotiation",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0057",
+    "name": "Riya Nair",
+    "title": "Implementation Manager",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Noida",
+    "years_experience": 4,
+    "skills": []
+  },
+  {
+    "id": "cand_0058",
+    "name": "Siddharth Kulkarni",
+    "title": "Customer Success Manager",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": [
+      "CRM",
+      "Data Analysis",
+      "Gainsight",
+      "Project Management",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0059",
+    "name": "Yash Jain",
+    "title": "Support Team Lead",
+    "company": "Infosys",
+    "industry": "information technology and services",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0060",
+    "name": "Riya Ghosh",
+    "title": "Customer Onboarding Manager",
+    "company": null,
+    "industry": "consumer goods",
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0061",
+    "name": "Sneha Jain",
+    "title": "Content Marketing Specialist",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": 6,
+    "skills": [
+      "Campaign Management",
+      "HubSpot",
+      "Negotiation",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0062",
+    "name": "Apoorva Chopra",
+    "title": "Onboarding Specialist",
+    "company": "Creditas",
+    "industry": "financial services",
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0063",
+    "name": "Shubham Bhat",
+    "title": "Implementation Manager",
+    "company": null,
+    "industry": "logistics and supply chain",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0064",
+    "name": "Divya Singh",
+    "title": "Customer Success Associate",
+    "company": "Digit Insurance",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 7,
+    "skills": [
+      "Negotiation",
+      "Onboarding",
+      "Salesforce",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0065",
+    "name": "Pranav Khan",
+    "title": "Senior Software Engineer",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Bangalore",
+    "years_experience": 4,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Data Analysis",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0066",
+    "name": "Neha Mishra",
+    "title": "Associate Product Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Chennai",
+    "years_experience": 3,
+    "skills": [
+      "Negotiation",
+      "Product Strategy",
+      "Project Management",
+      "Roadmapping",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0067",
+    "name": "Esha Bhat",
+    "title": "Full Stack Developer",
+    "company": "Practo",
+    "industry": "hospital & health care",
+    "location": "Bangalore",
+    "years_experience": 15,
+    "skills": [
+      "Kubernetes",
+      "Node.js",
+      "Project Management",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0068",
+    "name": "Gita Agarwal",
+    "title": "Senior Software Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "Negotiation",
+      "Node.js",
+      "Project Management",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0069",
+    "name": "Rakesh Bose",
+    "title": "Senior Customer Success Manager",
+    "company": "Mindtree",
+    "industry": "information technology and services",
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0070",
+    "name": "Naina Patel",
+    "title": "Customer Success Specialist",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Hyderabad",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "Data Analysis",
+      "Gainsight",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0071",
+    "name": "Aditi Menon",
+    "title": "Backend Engineer",
+    "company": null,
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": []
+  },
+  {
+    "id": "cand_0072",
+    "name": "Deepak Rao",
+    "title": "Account Executive",
+    "company": "BrowserStack",
+    "industry": "computer software",
+    "location": "Chennai",
+    "years_experience": 12,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0073",
+    "name": "Pooja Malhotra",
+    "title": "Enterprise Account Manager",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Gurgaon",
+    "years_experience": 3,
+    "skills": []
+  },
+  {
+    "id": "cand_0074",
+    "name": "Kabir Nair",
+    "title": "Backend Engineer",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 5,
+    "skills": [
+      "JavaScript",
+      "Kubernetes",
+      "Negotiation",
+      "React",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0075",
+    "name": "Ramya Khan",
+    "title": "Full Stack Developer",
+    "company": "PhonePe",
+    "industry": "financial services",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Communication",
+      "JavaScript",
+      "Project Management",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0076",
+    "name": "Asha Dubey",
+    "title": "Customer Success Specialist",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Mumbai",
+    "years_experience": 10,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0077",
+    "name": "Ananya Chopra",
+    "title": "Full Stack Developer",
+    "company": "Dabur",
+    "industry": "consumer goods",
+    "location": "Hyderabad",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Docker",
+      "JavaScript",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0078",
+    "name": "Neha Menon",
+    "title": "Data Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Docker",
+      "Negotiation",
+      "Node.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0079",
+    "name": "Meera Kulkarni",
+    "title": "Customer Success Lead",
+    "company": "PharmEasy",
+    "industry": "hospital & health care",
+    "location": "Chennai",
+    "years_experience": 7,
+    "skills": [
+      "Account Management",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Project Management",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0080",
+    "name": "Payal Reddy",
+    "title": "Implementation Manager",
+    "company": "Zoho",
+    "industry": "computer software",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0081",
+    "name": "Mohit Reddy",
+    "title": "Customer Support Executive",
+    "company": "Shiprocket",
+    "industry": "logistics and supply chain",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0082",
+    "name": "Yash Kulkarni",
+    "title": "Key Account Manager",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0083",
+    "name": "Sneha Rao",
+    "title": "CS Operations Manager",
+    "company": "Zomato",
+    "industry": "internet",
+    "location": "Mumbai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "Onboarding",
+      "QBRs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0084",
+    "name": "Farhan Verma",
+    "title": "Client Relationship Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0085",
+    "name": "Payal Reddy",
+    "title": "Head of Customer Success",
+    "company": null,
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": [
+      "Customer Onboarding",
+      "Data Analysis",
+      "Project Management",
+      "QBRs",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0086",
+    "name": "Manish Reddy",
+    "title": "Key Account Manager",
+    "company": "Wipro",
+    "industry": "information technology and services",
+    "location": "Bangalore",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0087",
+    "name": "Aditi Malhotra",
+    "title": "Customer Service Manager",
+    "company": "Freshworks",
+    "industry": "computer software",
+    "location": "Mumbai",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0088",
+    "name": "Devika Reddy",
+    "title": "Full Stack Developer",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Gurgaon",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Docker",
+      "JavaScript",
+      "Kubernetes",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0089",
+    "name": "Gita Ghosh",
+    "title": "Data Engineer",
+    "company": "WebEngage",
+    "industry": "computer software",
+    "location": "Pune",
+    "years_experience": 3,
+    "skills": [
+      "AWS",
+      "Communication",
+      "PostgreSQL",
+      "React",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0090",
+    "name": "Pranav Ghosh",
+    "title": "CS Operations Manager",
+    "company": "Nykaa",
+    "industry": "internet",
+    "location": "Remote",
+    "years_experience": 9,
+    "skills": [
+      "CRM",
+      "Customer Onboarding",
+      "Negotiation",
+      "Project Management",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0091",
+    "name": "Ananya Joshi",
+    "title": "Implementation Consultant",
+    "company": "Airtel",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 15,
+    "skills": []
+  },
+  {
+    "id": "cand_0092",
+    "name": "Pranav Pillai",
+    "title": "Head of Customer Success",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Kolkata",
+    "years_experience": 6,
+    "skills": [
+      "CRM",
+      "Customer Onboarding",
+      "Customer Success",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0093",
+    "name": "Raj Agarwal",
+    "title": "CS Operations Manager",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "CRM",
+      "Customer Success",
+      "Data Analysis",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0094",
+    "name": "Apoorva Mehta",
+    "title": "Product Manager",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "A/B Testing",
+      "Analytics",
+      "Project Management",
+      "SQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0095",
+    "name": "Lakshmi Mukherjee",
+    "title": "Solutions Engineer",
+    "company": "McKinsey India",
+    "industry": null,
+    "location": "Hyderabad",
+    "years_experience": 1,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "JavaScript",
+      "PostgreSQL",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0096",
+    "name": "Apoorva Das",
+    "title": "Onboarding Specialist",
+    "company": "TCS",
+    "industry": "information technology and services",
+    "location": "Mumbai",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0097",
+    "name": "Akhil Kapoor",
+    "title": "Senior Software Engineer",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Pune",
+    "years_experience": 8,
+    "skills": [
+      "Data Analysis",
+      "Node.js",
+      "React",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0098",
+    "name": "Pranav Ghosh",
+    "title": "Customer Success Specialist",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Noida",
+    "years_experience": 8,
+    "skills": [
+      "Data Analysis",
+      "Gainsight",
+      "QBRs",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0099",
+    "name": "Devika Reddy",
+    "title": "Full Stack Developer",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "JavaScript",
+      "Node.js",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0100",
+    "name": "Raj Joshi",
+    "title": "Strategic Account Manager",
+    "company": "Credgenics",
+    "industry": "financial services",
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership",
+      "UPI"
+    ]
+  },
+  {
+    "id": "cand_0101",
+    "name": "Shreya Sharma",
+    "title": "Product Manager",
+    "company": null,
+    "industry": null,
+    "location": "Mumbai",
+    "years_experience": 8,
+    "skills": [
+      "Analytics",
+      "Data Analysis",
+      "Product Strategy",
+      "Roadmapping",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0102",
+    "name": "Chirag Pandey",
+    "title": "Customer Service Manager",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": []
+  },
+  {
+    "id": "cand_0103",
+    "name": "Naina Patel",
+    "title": "Senior Software Engineer",
+    "company": "Practo",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 10,
+    "skills": [
+      "Data Analysis",
+      "Kubernetes",
+      "Negotiation",
+      "Python",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0104",
+    "name": "Varun Bhat",
+    "title": "Customer Support Executive",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0105",
+    "name": "Aniket Nair",
+    "title": "Customer Onboarding Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0106",
+    "name": "Vivek Agarwal",
+    "title": "Customer Service Manager",
+    "company": "Shiprocket",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0107",
+    "name": "Naina Saxena",
+    "title": "Support Team Lead",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0108",
+    "name": "Pooja Menon",
+    "title": "Customer Success Associate",
+    "company": "Chargebee",
+    "industry": "computer software",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Communication",
+      "Data Analysis",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "cand_0109",
+    "name": "Naina Bose",
+    "title": "Backend Engineer",
+    "company": "NoBroker",
+    "industry": null,
+    "location": "Delhi NCR",
+    "years_experience": 6,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Python",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0110",
+    "name": "Naina Malhotra",
+    "title": "Sales Development Representative",
+    "company": null,
+    "industry": "financial services",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0111",
+    "name": "Asha Khan",
+    "title": "Head of Customer Success",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 12,
+    "skills": [
+      "CRM",
+      "Customer Onboarding",
+      "Negotiation",
+      "Project Management",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0112",
+    "name": "Aniket Bhat",
+    "title": "Senior Customer Success Manager",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Negotiation",
+      "Project Management",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0113",
+    "name": "Asha Gupta",
+    "title": "Full Stack Developer",
+    "company": "Urban Company",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Negotiation",
+      "Project Management",
+      "Python",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0114",
+    "name": "Pallavi Ghosh",
+    "title": "Customer Success Lead",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Hyderabad",
+    "years_experience": 10,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Onboarding",
+      "Project Management",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0115",
+    "name": "Raj Saxena",
+    "title": "Sales Development Representative",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Bangalore",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0116",
+    "name": "Shubham Mukherjee",
+    "title": "Account Manager",
+    "company": "Shiprocket",
+    "industry": "logistics and supply chain",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0117",
+    "name": "Akhil Kulkarni",
+    "title": "Data Engineer",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0118",
+    "name": "Lakshmi Malhotra",
+    "title": "Solutions Engineer",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Mumbai",
+    "years_experience": 6,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "Negotiation",
+      "Python",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0119",
+    "name": "Vivek Joshi",
+    "title": "Senior Account Manager",
+    "company": "BCG India",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0120",
+    "name": "Bhavna Mehta",
+    "title": "Customer Service Manager",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": []
+  },
+  {
+    "id": "cand_0121",
+    "name": "Mohit Verma",
+    "title": "Sales Development Representative",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 15,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0122",
+    "name": "Nikhil Verma",
+    "title": "Growth Marketing Manager",
+    "company": "upGrad",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "HubSpot",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0123",
+    "name": "Arpit Rao",
+    "title": "Data Engineer",
+    "company": null,
+    "industry": "telecommunications",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": []
+  },
+  {
+    "id": "cand_0124",
+    "name": "Divya Menon",
+    "title": "Growth Marketing Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 8,
+    "skills": [
+      "Content Marketing",
+      "Google Ads",
+      "HubSpot",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0125",
+    "name": "Bhavna Sharma",
+    "title": "Inside Sales Manager",
+    "company": null,
+    "industry": "logistics and supply chain",
+    "location": "Pune",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0126",
+    "name": "Priya Iyer",
+    "title": "Onboarding Specialist",
+    "company": "PolicyBazaar",
+    "industry": "insurance",
+    "location": "Kolkata",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0127",
+    "name": "Pallavi Bose",
+    "title": "Customer Service Manager",
+    "company": "Nykaa",
+    "industry": "internet",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0128",
+    "name": "Mohit Bhat",
+    "title": "Head of Customer Success",
+    "company": "Lenskart",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 12,
+    "skills": [
+      "CRM",
+      "Project Management",
+      "Renewals",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0129",
+    "name": "Manish Chopra",
+    "title": "Key Account Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Pune",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0130",
+    "name": "Mohit Saxena",
+    "title": "Customer Success Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Chennai",
+    "years_experience": 1,
+    "skills": [
+      "CRM",
+      "Negotiation",
+      "QBRs",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0131",
+    "name": "Kabir Verma",
+    "title": "Customer Success Specialist",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "QBRs",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0132",
+    "name": "Priya Agarwal",
+    "title": "Senior Customer Success Manager",
+    "company": "Dabur",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 9,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0133",
+    "name": "Ira Saxena",
+    "title": "Customer Success Lead",
+    "company": "Dream11",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Onboarding",
+      "Project Management",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0134",
+    "name": "Devika Bose",
+    "title": "Enterprise Account Manager",
+    "company": null,
+    "industry": "retail",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0135",
+    "name": "Gaurav Menon",
+    "title": "Senior Account Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0136",
+    "name": "Meera Das",
+    "title": "Key Account Manager",
+    "company": "Cloudnine",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0137",
+    "name": "Shubham Saxena",
+    "title": "Business Development Manager",
+    "company": "Deloitte India",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0138",
+    "name": "Rakesh Malhotra",
+    "title": "Sales Development Representative",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Kolkata",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0139",
+    "name": "Asha Bhat",
+    "title": "CS Operations Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Gurgaon",
+    "years_experience": 8,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0140",
+    "name": "Nikhil Khan",
+    "title": "Customer Success Lead",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Bangalore",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Renewals",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0141",
+    "name": "Gaurav Ghosh",
+    "title": "Customer Success Manager",
+    "company": "Lenskart",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": 7,
+    "skills": [
+      "Customer Onboarding",
+      "Data Analysis",
+      "Project Management",
+      "QBRs",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0142",
+    "name": "Asha Iyer",
+    "title": "Data Engineer",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Docker",
+      "REST APIs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0143",
+    "name": "Pranav Joshi",
+    "title": "Customer Service Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0144",
+    "name": "Sanjana Verma",
+    "title": "Senior Customer Success Manager",
+    "company": "Infosys",
+    "industry": "information technology and services",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "QBRs",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0145",
+    "name": "Bhavna Saxena",
+    "title": "Head of Customer Success",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Churn Reduction",
+      "Project Management",
+      "QBRs",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0146",
+    "name": "Riya Chopra",
+    "title": "Account Manager",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Bangalore",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0147",
+    "name": "Aniket Malhotra",
+    "title": "Key Account Manager",
+    "company": "Shiprocket",
+    "industry": "logistics and supply chain",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0148",
+    "name": "Varun Kulkarni",
+    "title": "Implementation Consultant",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Gurgaon",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0149",
+    "name": "Lakshmi Saxena",
+    "title": "Inside Sales Manager",
+    "company": "TCS",
+    "industry": "information technology and services",
+    "location": "Bangalore",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0150",
+    "name": "Pranav Mukherjee",
+    "title": "Senior Account Manager",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Pune",
+    "years_experience": 6,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0151",
+    "name": "Akhil Pillai",
+    "title": "Senior Account Manager",
+    "company": "Wipro",
+    "industry": "information technology and services",
+    "location": "Gurgaon",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0152",
+    "name": "Vivek Kulkarni",
+    "title": "Client Relationship Manager",
+    "company": "Lenskart",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0153",
+    "name": "Bhavna Bhat",
+    "title": "Data Engineer",
+    "company": "Credgenics",
+    "industry": "financial services",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Docker",
+      "Python",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0154",
+    "name": "Aditi Sharma",
+    "title": "Data Engineer",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Kolkata",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Docker",
+      "Project Management",
+      "Python",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0155",
+    "name": "Rakesh Nair",
+    "title": "Onboarding Specialist",
+    "company": "NoBroker",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0156",
+    "name": "Siddharth Mishra",
+    "title": "Associate Product Manager",
+    "company": "LTIMindtree",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "A/B Testing",
+      "Data Analysis",
+      "Negotiation",
+      "Product Strategy",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0157",
+    "name": "Gita Bose",
+    "title": "Implementation Consultant",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0158",
+    "name": "Aditi Gupta",
+    "title": "Account Executive",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0159",
+    "name": "Raj Dubey",
+    "title": "Inside Sales Manager",
+    "company": "Unacademy",
+    "industry": "e-learning",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0160",
+    "name": "Rahul Singh",
+    "title": "Enterprise Account Manager",
+    "company": "Pine Labs",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 8,
+    "skills": [
+      "AML",
+      "Data Analysis",
+      "Negotiation",
+      "Payments",
+      "Risk Decisioning",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0161",
+    "name": "Arjun Sharma",
+    "title": "Growth Marketing Manager",
+    "company": "1mg",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "HubSpot",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0162",
+    "name": "Arjun Menon",
+    "title": "Customer Success Manager",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": [
+      "Churn Reduction",
+      "Customer Success",
+      "Data Analysis",
+      "Postman",
+      "Project Management",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0163",
+    "name": "Kavya Chopra",
+    "title": "Support Team Lead",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0164",
+    "name": "Pranav Reddy",
+    "title": "Growth Marketing Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Content Marketing",
+      "Data Analysis",
+      "Google Ads",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0165",
+    "name": "Sanjana Chauhan",
+    "title": "Senior Software Engineer",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "PostgreSQL",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0166",
+    "name": "Naina Reddy",
+    "title": "Strategic Account Manager",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Remote",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0167",
+    "name": "Sourav Chopra",
+    "title": "Enterprise Account Manager",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0168",
+    "name": "Tanvi Pandey",
+    "title": "Customer Service Manager",
+    "company": "Hindustan Unilever",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0169",
+    "name": "Aarav Reddy",
+    "title": "Full Stack Developer",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Kubernetes",
+      "Project Management",
+      "REST APIs",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0170",
+    "name": "Pallavi Saxena",
+    "title": "Strategic Account Manager",
+    "company": "Cred",
+    "industry": "financial services",
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Postman",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0171",
+    "name": "Aditi Mishra",
+    "title": "Senior Account Manager",
+    "company": "Freshworks",
+    "industry": "computer software",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0172",
+    "name": "Nikhil Sharma",
+    "title": "Support Team Lead",
+    "company": "Jio",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0173",
+    "name": "Naina Mehta",
+    "title": "Customer Success Manager",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Gurgaon",
+    "years_experience": 3,
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Data Analysis",
+      "Project Management",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0174",
+    "name": "Hari Menon",
+    "title": "Onboarding Specialist",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0175",
+    "name": "Payal Iyer",
+    "title": "Support Team Lead",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Chennai",
+    "years_experience": 6,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0176",
+    "name": "Bhavna Rao",
+    "title": "Customer Service Manager",
+    "company": "PhonePe",
+    "industry": "financial services",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0177",
+    "name": "Ramya Das",
+    "title": "Customer Success Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0178",
+    "name": "Ishaan Kapoor",
+    "title": "Account Executive",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Mumbai",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0179",
+    "name": "Esha Chauhan",
+    "title": "Enterprise Account Manager",
+    "company": "Mindtree",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0180",
+    "name": "Kiran Pillai",
+    "title": "Senior Software Engineer",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Noida",
+    "years_experience": 4,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Data Analysis",
+      "JavaScript",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0181",
+    "name": "Vivek Kulkarni",
+    "title": "Enterprise Account Manager",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0182",
+    "name": "Rahul Mehta",
+    "title": "Technical Support Specialist",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Remote",
+    "years_experience": 8,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0183",
+    "name": "Meera Mukherjee",
+    "title": "Customer Success Associate",
+    "company": null,
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Onboarding",
+      "Project Management",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0184",
+    "name": "Harsha Chauhan",
+    "title": "Customer Success Lead",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Onboarding",
+      "Project Management",
+      "QBRs",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0185",
+    "name": "Payal Agarwal",
+    "title": "Customer Success Lead",
+    "company": "BharatPe",
+    "industry": null,
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Account Management",
+      "Customer Onboarding",
+      "Customer Success",
+      "Data Analysis",
+      "Postman",
+      "REST APIs",
+      "Risk Decisioning",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0186",
+    "name": "Jyoti Rao",
+    "title": "Support Team Lead",
+    "company": "BCG India",
+    "industry": null,
+    "location": "Mumbai",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0187",
+    "name": "Aarav Menon",
+    "title": "Product Manager",
+    "company": "Urban Company",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 15,
+    "skills": [
+      "Analytics",
+      "Data Analysis",
+      "Roadmapping",
+      "SQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0188",
+    "name": "Mohit Kapoor",
+    "title": "Customer Success Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Pune",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Onboarding",
+      "Renewals",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0189",
+    "name": "Rakesh Menon",
+    "title": "Senior Product Manager",
+    "company": "BharatPe",
+    "industry": "financial services",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "Analytics",
+      "Communication",
+      "Roadmapping",
+      "SQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0190",
+    "name": "Neha Mishra",
+    "title": "Business Development Manager",
+    "company": "Morningstar",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": []
+  },
+  {
+    "id": "cand_0191",
+    "name": "Raj Das",
+    "title": "Account Manager",
+    "company": "Infosys",
+    "industry": "information technology and services",
+    "location": "Kolkata",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0192",
+    "name": "Manish Rao",
+    "title": "Senior Customer Success Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": []
+  },
+  {
+    "id": "cand_0193",
+    "name": "Sneha Dubey",
+    "title": "Customer Onboarding Manager",
+    "company": "Freshworks",
+    "industry": null,
+    "location": "Delhi NCR",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0194",
+    "name": "Vikram Ghosh",
+    "title": "Marketing Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Data Analysis",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0195",
+    "name": "Devika Pillai",
+    "title": "Business Development Manager",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": 9,
+    "skills": []
+  },
+  {
+    "id": "cand_0196",
+    "name": "Hari Nair",
+    "title": "Strategic Account Manager",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "AML",
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Payments",
+      "Project Management",
+      "Team Leadership",
+      "UPI"
+    ]
+  },
+  {
+    "id": "cand_0197",
+    "name": "Apoorva Pandey",
+    "title": "Head of Customer Success",
+    "company": "NoBroker",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 6,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0198",
+    "name": "Rahul Ghosh",
+    "title": "Solutions Engineer",
+    "company": "Wipro",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 15,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Data Analysis",
+      "REST APIs",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0199",
+    "name": "Arpit Gupta",
+    "title": "Customer Success Manager",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Renewals",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0200",
+    "name": "Sahil Reddy",
+    "title": "Business Development Manager",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Kolkata",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0201",
+    "name": "Manish Malhotra",
+    "title": "Strategic Account Manager",
+    "company": "Square Yards",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0202",
+    "name": "Pranav Khan",
+    "title": "Sales Development Representative",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0203",
+    "name": "Bhavna Iyer",
+    "title": "Customer Support Executive",
+    "company": "1mg",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0204",
+    "name": "Harsha Kulkarni",
+    "title": "CS Operations Manager",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Negotiation",
+      "Project Management",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0205",
+    "name": "Asha Verma",
+    "title": "Senior Software Engineer",
+    "company": "Reliance Retail",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 5,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "Docker",
+      "Negotiation",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0206",
+    "name": "Akhil Menon",
+    "title": "Customer Success Associate",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": []
+  },
+  {
+    "id": "cand_0207",
+    "name": "Zara Sharma",
+    "title": "Support Team Lead",
+    "company": "LTIMindtree",
+    "industry": "information technology and services",
+    "location": "Hyderabad",
+    "years_experience": 12,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0208",
+    "name": "Ananya Jain",
+    "title": "Key Account Manager",
+    "company": "Dentsu",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0209",
+    "name": "Ira Kulkarni",
+    "title": "Marketing Manager",
+    "company": "Tide",
+    "industry": "financial services",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Google Ads",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0210",
+    "name": "Ramya Das",
+    "title": "Sales Development Representative",
+    "company": "Dream11",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0211",
+    "name": "Hari Jain",
+    "title": "Senior Software Engineer",
+    "company": "Wipro",
+    "industry": "information technology and services",
+    "location": "Pune",
+    "years_experience": 3,
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Negotiation",
+      "Python",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0212",
+    "name": "Meera Das",
+    "title": "Customer Service Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0213",
+    "name": "Bhavna Iyer",
+    "title": "Full Stack Developer",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": 15,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Kubernetes",
+      "Node.js",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0214",
+    "name": "Shubham Pillai",
+    "title": "Sales Development Representative",
+    "company": "Morningstar",
+    "industry": "financial services",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0215",
+    "name": "Pooja Sharma",
+    "title": "Senior Product Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0216",
+    "name": "Mohit Mukherjee",
+    "title": "Customer Service Manager",
+    "company": null,
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": 6,
+    "skills": []
+  },
+  {
+    "id": "cand_0217",
+    "name": "Farhan Rao",
+    "title": "Account Manager",
+    "company": "MoEngage",
+    "industry": "computer software",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0218",
+    "name": "Ishaan Gupta",
+    "title": "Implementation Manager",
+    "company": "Swiggy",
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0219",
+    "name": "Arjun Das",
+    "title": "Customer Success Associate",
+    "company": "Razorpay",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "AML",
+      "Account Management",
+      "CRM",
+      "Communication",
+      "REST APIs",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0220",
+    "name": "Naina Pandey",
+    "title": "Backend Engineer",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "AWS",
+      "Communication",
+      "PostgreSQL",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0221",
+    "name": "Arjun Bhat",
+    "title": "Customer Success Specialist",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Gainsight",
+      "Salesforce",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0222",
+    "name": "Arjun Rao",
+    "title": "Onboarding Specialist",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Bangalore",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0223",
+    "name": "Bhavna Agarwal",
+    "title": "Customer Success Manager",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Negotiation",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0224",
+    "name": "Pallavi Nair",
+    "title": "Implementation Manager",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0225",
+    "name": "Sanjana Chopra",
+    "title": "Enterprise Account Manager",
+    "company": "Cloudnine",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 15,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0226",
+    "name": "Meera Kulkarni",
+    "title": "Growth Marketing Manager",
+    "company": "Lenskart",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 0,
+    "skills": [
+      "Campaign Management",
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0227",
+    "name": "Harsha Malhotra",
+    "title": "Strategic Account Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Gurgaon",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0228",
+    "name": "Aditi Iyer",
+    "title": "CS Operations Manager",
+    "company": "Square Yards",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Customer Success",
+      "Data Analysis",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0229",
+    "name": "Kabir Joshi",
+    "title": "Customer Onboarding Manager",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Chennai",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0230",
+    "name": "Faisal Mishra",
+    "title": "Customer Success Manager",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Customer Onboarding",
+      "Project Management",
+      "QBRs",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0231",
+    "name": "Sanjana Jain",
+    "title": "Associate Product Manager",
+    "company": "PhonePe",
+    "industry": "financial services",
+    "location": "Bangalore",
+    "years_experience": 3,
+    "skills": [
+      "A/B Testing",
+      "Analytics",
+      "Data Analysis",
+      "Project Management",
+      "Roadmapping"
+    ]
+  },
+  {
+    "id": "cand_0232",
+    "name": "Sahil Reddy",
+    "title": "Client Relationship Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": []
+  },
+  {
+    "id": "cand_0233",
+    "name": "Harsha Nair",
+    "title": "Full Stack Developer",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "Docker",
+      "Project Management",
+      "Python",
+      "React",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0234",
+    "name": "Tarun Pillai",
+    "title": "Customer Service Manager",
+    "company": "Practo",
+    "industry": "hospital & health care",
+    "location": "Gurgaon",
+    "years_experience": 15,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0235",
+    "name": "Priya Nair",
+    "title": "Senior Software Engineer",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Communication",
+      "PostgreSQL",
+      "REST APIs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0236",
+    "name": "Pranav Mishra",
+    "title": "Senior Account Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0237",
+    "name": "Deepak Gupta",
+    "title": "Inside Sales Manager",
+    "company": "PolicyBazaar",
+    "industry": "insurance",
+    "location": "Pune",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0238",
+    "name": "Ishaan Ghosh",
+    "title": "Backend Engineer",
+    "company": "Jupiter",
+    "industry": "financial services",
+    "location": "Delhi NCR",
+    "years_experience": 4,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Kubernetes",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0239",
+    "name": "Aarav Pandey",
+    "title": "Customer Support Executive",
+    "company": "Groww",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Lending",
+      "Negotiation",
+      "Payments",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0240",
+    "name": "Sanjana Bose",
+    "title": "Customer Success Associate",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Pune",
+    "years_experience": 10,
+    "skills": [
+      "Data Analysis",
+      "Onboarding",
+      "Project Management",
+      "QBRs",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0241",
+    "name": "Ishaan Dubey",
+    "title": "Support Team Lead",
+    "company": "Lendingkart",
+    "industry": "financial services",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "KYC",
+      "Negotiation",
+      "Payments",
+      "Postman",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0242",
+    "name": "Neha Reddy",
+    "title": "Customer Success Manager",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Kolkata",
+    "years_experience": 8,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Onboarding",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0243",
+    "name": "Raj Dubey",
+    "title": "Senior Software Engineer",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "JavaScript",
+      "Kubernetes",
+      "Node.js"
+    ]
+  },
+  {
+    "id": "cand_0244",
+    "name": "Faisal Verma",
+    "title": "Customer Success Specialist",
+    "company": "Vedantu",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "CRM",
+      "Customer Onboarding",
+      "Project Management",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0245",
+    "name": "Apoorva Dubey",
+    "title": "Product Manager",
+    "company": null,
+    "industry": "retail",
+    "location": "Mumbai",
+    "years_experience": null,
+    "skills": [
+      "Analytics",
+      "Negotiation",
+      "Project Management",
+      "Roadmapping",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0246",
+    "name": "Vikram Reddy",
+    "title": "Enterprise Account Manager",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Mumbai",
+    "years_experience": 7,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0247",
+    "name": "Asha Rao",
+    "title": "CS Operations Manager",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Data Analysis",
+      "Negotiation",
+      "Stakeholder Management",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0248",
+    "name": "Hari Pillai",
+    "title": "Senior Customer Success Manager",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Chennai",
+    "years_experience": 7,
+    "skills": [
+      "CRM",
+      "Data Analysis",
+      "QBRs",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0249",
+    "name": "Farhan Kapoor",
+    "title": "Growth Marketing Manager",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": [
+      "Campaign Management",
+      "Communication",
+      "Content Marketing",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0250",
+    "name": "Tanvi Chauhan",
+    "title": "Business Development Manager",
+    "company": "Mindtree",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 10,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0251",
+    "name": "Raj Mishra",
+    "title": "Account Executive",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Chennai",
+    "years_experience": 3,
+    "skills": []
+  },
+  {
+    "id": "cand_0252",
+    "name": "Pranav Malhotra",
+    "title": "Solutions Engineer",
+    "company": "PharmEasy",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "JavaScript",
+      "Kubernetes",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0253",
+    "name": "Farhan Bose",
+    "title": "Customer Support Executive",
+    "company": "Digitap AI",
+    "industry": "financial services",
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0254",
+    "name": "Asha Reddy",
+    "title": "Growth Marketing Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Content Marketing",
+      "Google Ads",
+      "Negotiation",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0255",
+    "name": "Karan Menon",
+    "title": "Content Marketing Specialist",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Gurgaon",
+    "years_experience": 2,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Data Analysis",
+      "SEO",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0256",
+    "name": "Asha Ghosh",
+    "title": "CS Operations Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "CRM",
+      "Negotiation",
+      "QBRs",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0257",
+    "name": "Gaurav Dubey",
+    "title": "Customer Onboarding Manager",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Delhi NCR",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0258",
+    "name": "Pooja Jain",
+    "title": "Strategic Account Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Delhi NCR",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0259",
+    "name": "Shreya Chauhan",
+    "title": "Sales Development Representative",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0260",
+    "name": "Kiran Pandey",
+    "title": "Associate Product Manager",
+    "company": "Deloitte India",
+    "industry": null,
+    "location": "Hyderabad",
+    "years_experience": 12,
+    "skills": [
+      "A/B Testing",
+      "Communication",
+      "Data Analysis",
+      "Product Strategy",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0261",
+    "name": "Chirag Verma",
+    "title": "Customer Success Specialist",
+    "company": "Digit Insurance",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 2,
+    "skills": [
+      "Customer Success",
+      "Data Analysis",
+      "Gainsight",
+      "Project Management",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0262",
+    "name": "Raj Jain",
+    "title": "Content Marketing Specialist",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Content Marketing",
+      "Data Analysis",
+      "HubSpot",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0263",
+    "name": "Ramya Dubey",
+    "title": "Onboarding Specialist",
+    "company": "Shiprocket",
+    "industry": "logistics and supply chain",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0264",
+    "name": "Riya Khan",
+    "title": "Customer Success Manager",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Delhi NCR",
+    "years_experience": 4,
+    "skills": []
+  },
+  {
+    "id": "cand_0265",
+    "name": "Zara Pillai",
+    "title": "Data Engineer",
+    "company": "BharatPe",
+    "industry": "financial services",
+    "location": "Kolkata",
+    "years_experience": 9,
+    "skills": [
+      "JavaScript",
+      "Kubernetes",
+      "Negotiation",
+      "PostgreSQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0266",
+    "name": "Jyoti Pandey",
+    "title": "Inside Sales Manager",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0267",
+    "name": "Pooja Singh",
+    "title": "Marketing Manager",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 5,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Data Analysis",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0268",
+    "name": "Aniket Bose",
+    "title": "Client Relationship Manager",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Chennai",
+    "years_experience": 10,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Lending",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0269",
+    "name": "Chirag Reddy",
+    "title": "Customer Success Specialist",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Gurgaon",
+    "years_experience": 7,
+    "skills": []
+  },
+  {
+    "id": "cand_0270",
+    "name": "Pallavi Rao",
+    "title": "Account Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Chennai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0271",
+    "name": "Mohit Saxena",
+    "title": "Content Marketing Specialist",
+    "company": "McKinsey India",
+    "industry": "management consulting",
+    "location": "Kolkata",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Google Ads",
+      "HubSpot",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0272",
+    "name": "Vikram Rao",
+    "title": "Senior Customer Success Manager",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "Negotiation",
+      "Onboarding",
+      "Project Management",
+      "QBRs",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0273",
+    "name": "Riya Patel",
+    "title": "Head of Customer Success",
+    "company": "Tide",
+    "industry": "financial services",
+    "location": "Noida",
+    "years_experience": 12,
+    "skills": [
+      "BFSI",
+      "Churn Reduction",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0274",
+    "name": "Apoorva Das",
+    "title": "CS Operations Manager",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Mumbai",
+    "years_experience": 12,
+    "skills": [
+      "Account Management",
+      "Data Analysis",
+      "Negotiation",
+      "Renewals",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0275",
+    "name": "Rahul Malhotra",
+    "title": "Account Manager",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Pune",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0276",
+    "name": "Kavya Kulkarni",
+    "title": "Senior Customer Success Manager",
+    "company": "Unacademy",
+    "industry": "e-learning",
+    "location": "Pune",
+    "years_experience": 7,
+    "skills": [
+      "Churn Reduction",
+      "Data Analysis",
+      "Negotiation",
+      "Onboarding",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0277",
+    "name": "Gita Mukherjee",
+    "title": "Backend Engineer",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Gurgaon",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "JavaScript",
+      "Negotiation",
+      "Node.js",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0278",
+    "name": "Naina Rao",
+    "title": "Customer Success Associate",
+    "company": "Dabur",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Onboarding",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0279",
+    "name": "Pooja Iyer",
+    "title": "Senior Software Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": []
+  },
+  {
+    "id": "cand_0280",
+    "name": "Neha Chopra",
+    "title": "Senior Customer Success Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": 5,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Customer Onboarding",
+      "Customer Success",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0281",
+    "name": "Rakesh Khan",
+    "title": "Full Stack Developer",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Hyderabad",
+    "years_experience": 1,
+    "skills": [
+      "Docker",
+      "Negotiation",
+      "Project Management",
+      "REST APIs",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0282",
+    "name": "Raj Agarwal",
+    "title": "Senior Customer Success Manager",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 1,
+    "skills": [
+      "Onboarding",
+      "Project Management",
+      "QBRs",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0283",
+    "name": "Priya Gupta",
+    "title": "Account Manager",
+    "company": "BCG India",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0284",
+    "name": "Ira Iyer",
+    "title": "Backend Engineer",
+    "company": "Zomato",
+    "industry": "internet",
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Docker",
+      "Node.js",
+      "Python",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0285",
+    "name": "Shreya Bhat",
+    "title": "Support Team Lead",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Kolkata",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0286",
+    "name": "Bhavna Nair",
+    "title": "Head of Customer Success",
+    "company": "Mindtree",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Communication",
+      "Negotiation",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "cand_0287",
+    "name": "Gita Ghosh",
+    "title": "Data Engineer",
+    "company": "Urban Company",
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Docker",
+      "PostgreSQL",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0288",
+    "name": "Deepak Khan",
+    "title": "Data Engineer",
+    "company": null,
+    "industry": "real estate",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "JavaScript",
+      "Negotiation",
+      "Node.js",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0289",
+    "name": "Tanvi Jain",
+    "title": "Account Executive",
+    "company": "Sirion",
+    "industry": "computer software",
+    "location": "Pune",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0290",
+    "name": "Vivek Gupta",
+    "title": "Technical Support Specialist",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Hyderabad",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0291",
+    "name": "Pooja Jain",
+    "title": "Content Marketing Specialist",
+    "company": "Swiggy",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": [
+      "Content Marketing",
+      "Data Analysis",
+      "Google Ads",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0292",
+    "name": "Priya Saxena",
+    "title": "Customer Support Executive",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0293",
+    "name": "Yash Kulkarni",
+    "title": "Technical Support Specialist",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0294",
+    "name": "Siddharth Sharma",
+    "title": "Backend Engineer",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 3,
+    "skills": []
+  },
+  {
+    "id": "cand_0295",
+    "name": "Bhavna Khan",
+    "title": "Customer Success Associate",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Data Analysis",
+      "Renewals",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0296",
+    "name": "Farhan Mukherjee",
+    "title": "Account Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0297",
+    "name": "Karan Patel",
+    "title": "Implementation Manager",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0298",
+    "name": "Riya Saxena",
+    "title": "Customer Success Specialist",
+    "company": "1mg",
+    "industry": "hospital & health care",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Project Management",
+      "QBRs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0299",
+    "name": "Esha Khan",
+    "title": "Marketing Manager",
+    "company": "LTIMindtree",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Negotiation",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0300",
+    "name": "Akhil Mishra",
+    "title": "Data Engineer",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Chennai",
+    "years_experience": 12,
+    "skills": [
+      "Kubernetes",
+      "Negotiation",
+      "PostgreSQL",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0301",
+    "name": "Rakesh Jain",
+    "title": "Head of Customer Success",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": 1,
+    "skills": [
+      "CRM",
+      "Customer Success",
+      "Gainsight",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0302",
+    "name": "Aarav Bhat",
+    "title": "Associate Product Manager",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 0,
+    "skills": [
+      "A/B Testing",
+      "Negotiation",
+      "Product Strategy",
+      "Project Management",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0303",
+    "name": "Rahul Kapoor",
+    "title": "Implementation Consultant",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Gurgaon",
+    "years_experience": 3,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0304",
+    "name": "Payal Mishra",
+    "title": "Customer Success Associate",
+    "company": "McKinsey India",
+    "industry": null,
+    "location": "Hyderabad",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Onboarding",
+      "QBRs",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0305",
+    "name": "Karan Mukherjee",
+    "title": "Business Development Manager",
+    "company": "Dabur",
+    "industry": "consumer goods",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0306",
+    "name": "Riya Mukherjee",
+    "title": "Growth Marketing Manager",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "Project Management",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0307",
+    "name": "Manish Bhat",
+    "title": "Senior Software Engineer",
+    "company": "Marico",
+    "industry": "consumer goods",
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "JavaScript",
+      "Kubernetes",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0308",
+    "name": "Nikhil Mishra",
+    "title": "Enterprise Account Manager",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Mumbai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0309",
+    "name": "Faisal Iyer",
+    "title": "Senior Account Manager",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 7,
+    "skills": []
+  },
+  {
+    "id": "cand_0310",
+    "name": "Rakesh Ghosh",
+    "title": "Implementation Manager",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Mumbai",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0311",
+    "name": "Rakesh Kulkarni",
+    "title": "Enterprise Account Manager",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0312",
+    "name": "Sanjana Malhotra",
+    "title": "Sales Development Representative",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Remote",
+    "years_experience": 15,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0313",
+    "name": "Mohit Das",
+    "title": "Account Manager",
+    "company": "MobiKwik",
+    "industry": "financial services",
+    "location": "Chennai",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Payments",
+      "Project Management",
+      "Risk Decisioning"
+    ]
+  },
+  {
+    "id": "cand_0314",
+    "name": "Chirag Rao",
+    "title": "Onboarding Specialist",
+    "company": "PharmEasy",
+    "industry": "hospital & health care",
+    "location": "Gurgaon",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0315",
+    "name": "Shubham Malhotra",
+    "title": "Senior Customer Success Manager",
+    "company": null,
+    "industry": "internet",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": [
+      "CRM",
+      "Data Analysis",
+      "Salesforce",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0316",
+    "name": "Varun Sharma",
+    "title": "Customer Success Associate",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Gurgaon",
+    "years_experience": 8,
+    "skills": [
+      "Account Management",
+      "Customer Success",
+      "Data Analysis",
+      "Onboarding",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0317",
+    "name": "Chirag Ghosh",
+    "title": "Implementation Manager",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0318",
+    "name": "Yash Malhotra",
+    "title": "CS Operations Manager",
+    "company": "BrowserStack",
+    "industry": "computer software",
+    "location": "Gurgaon",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Customer Success",
+      "Data Analysis",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0319",
+    "name": "Rakesh Reddy",
+    "title": "Key Account Manager",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Noida",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0320",
+    "name": "Asha Rao",
+    "title": "Key Account Manager",
+    "company": "Pine Labs",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Risk Decisioning",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0321",
+    "name": "Tanvi Mukherjee",
+    "title": "Backend Engineer",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Mumbai",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Negotiation",
+      "Project Management",
+      "React",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0322",
+    "name": "Rahul Chauhan",
+    "title": "Support Team Lead",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Chennai",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0323",
+    "name": "Rakesh Nair",
+    "title": "Data Engineer",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Chennai",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Kubernetes",
+      "Node.js",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "cand_0324",
+    "name": "Varun Patel",
+    "title": "Full Stack Developer",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Kolkata",
+    "years_experience": 5,
+    "skills": [
+      "Docker",
+      "Negotiation",
+      "React",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0325",
+    "name": "Gaurav Mishra",
+    "title": "Account Executive",
+    "company": "Jio",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0326",
+    "name": "Naina Singh",
+    "title": "Data Engineer",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "JavaScript",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0327",
+    "name": "Rakesh Verma",
+    "title": "Technical Support Specialist",
+    "company": "Delhivery",
+    "industry": null,
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0328",
+    "name": "Riya Dubey",
+    "title": "Data Engineer",
+    "company": "LTIMindtree",
+    "industry": "information technology and services",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Data Analysis",
+      "Docker",
+      "JavaScript",
+      "Negotiation",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "cand_0329",
+    "name": "Ira Joshi",
+    "title": "Key Account Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Pune",
+    "years_experience": 8,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0330",
+    "name": "Pooja Rao",
+    "title": "Technical Support Specialist",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Bangalore",
+    "years_experience": 8,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0331",
+    "name": "Raj Mukherjee",
+    "title": "Enterprise Account Manager",
+    "company": "Pine Labs",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Payments",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0332",
+    "name": "Varun Patel",
+    "title": "Customer Success Lead",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Pune",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": "cand_0333",
+    "name": "Farhan Kulkarni",
+    "title": "Customer Success Manager",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0334",
+    "name": "Raj Chauhan",
+    "title": "Client Relationship Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0335",
+    "name": "Priya Pillai",
+    "title": "Support Team Lead",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0336",
+    "name": "Harsha Mukherjee",
+    "title": "Inside Sales Manager",
+    "company": "Tech Mahindra",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0337",
+    "name": "Harsha Mehta",
+    "title": "Associate Product Manager",
+    "company": "1mg",
+    "industry": "hospital & health care",
+    "location": "Pune",
+    "years_experience": 5,
+    "skills": [
+      "A/B Testing",
+      "Analytics",
+      "Product Strategy",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0338",
+    "name": "Divya Ghosh",
+    "title": "Senior Customer Success Manager",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0339",
+    "name": "Meera Gupta",
+    "title": "Customer Success Lead",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Kolkata",
+    "years_experience": 0,
+    "skills": [
+      "Customer Onboarding",
+      "Gainsight",
+      "Negotiation",
+      "Project Management",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0340",
+    "name": "Karan Iyer",
+    "title": "Associate Product Manager",
+    "company": "MobiKwik",
+    "industry": "financial services",
+    "location": "Bangalore",
+    "years_experience": null,
+    "skills": [
+      "Analytics",
+      "Communication",
+      "Data Analysis",
+      "Roadmapping",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0341",
+    "name": "Esha Pandey",
+    "title": "Backend Engineer",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Docker",
+      "JavaScript",
+      "Project Management",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0342",
+    "name": "Ira Bose",
+    "title": "Implementation Manager",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0343",
+    "name": "Farhan Kulkarni",
+    "title": "Account Executive",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Bangalore",
+    "years_experience": 6,
+    "skills": []
+  },
+  {
+    "id": "cand_0344",
+    "name": "Pallavi Singh",
+    "title": "Senior Product Manager",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Analytics",
+      "Negotiation",
+      "Project Management",
+      "Roadmapping",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0345",
+    "name": "Tanvi Chauhan",
+    "title": "Product Manager",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Kolkata",
+    "years_experience": 4,
+    "skills": [
+      "Negotiation",
+      "Roadmapping",
+      "SQL",
+      "Team Leadership",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0346",
+    "name": "Farhan Kapoor",
+    "title": "Key Account Manager",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0347",
+    "name": "Shreya Singh",
+    "title": "Full Stack Developer",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Remote",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Kubernetes",
+      "Project Management",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0348",
+    "name": "Rahul Chopra",
+    "title": "Growth Marketing Manager",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Campaign Management",
+      "Communication",
+      "Content Marketing",
+      "Data Analysis",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0349",
+    "name": "Gaurav Saxena",
+    "title": "Marketing Manager",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": 1,
+    "skills": [
+      "Campaign Management",
+      "Data Analysis",
+      "Google Ads",
+      "HubSpot",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0350",
+    "name": "Sanjana Mukherjee",
+    "title": "Technical Support Specialist",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Kolkata",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0351",
+    "name": "Kiran Malhotra",
+    "title": "Customer Success Lead",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "CRM",
+      "Customer Onboarding",
+      "Data Analysis",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0352",
+    "name": "Asha Iyer",
+    "title": "Customer Onboarding Manager",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Remote",
+    "years_experience": 10,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0353",
+    "name": "Tanvi Agarwal",
+    "title": "Customer Success Manager",
+    "company": "Lenskart",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Customer Onboarding",
+      "Data Analysis",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0354",
+    "name": "Neha Verma",
+    "title": "Sales Development Representative",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0355",
+    "name": "Harsha Sharma",
+    "title": "Onboarding Specialist",
+    "company": "PolicyBazaar",
+    "industry": "insurance",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0356",
+    "name": "Pooja Patel",
+    "title": "Solutions Engineer",
+    "company": null,
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Kubernetes",
+      "Negotiation",
+      "Project Management",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0357",
+    "name": "Divya Mishra",
+    "title": "Customer Success Specialist",
+    "company": "Payoneer",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Customer Onboarding",
+      "Negotiation",
+      "Project Management",
+      "QBRs",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0358",
+    "name": "Gaurav Malhotra",
+    "title": "Data Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": []
+  },
+  {
+    "id": "cand_0359",
+    "name": "Asha Chauhan",
+    "title": "Business Development Manager",
+    "company": "Sprinklr",
+    "industry": "computer software",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0360",
+    "name": "Sanjana Mishra",
+    "title": "Customer Success Specialist",
+    "company": "Lenskart",
+    "industry": "retail",
+    "location": "Pune",
+    "years_experience": 7,
+    "skills": [
+      "Gainsight",
+      "Negotiation",
+      "Project Management",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0361",
+    "name": "Harsha Sharma",
+    "title": "Sales Development Representative",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Mumbai",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0362",
+    "name": "Tanvi Das",
+    "title": "Sales Development Representative",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0363",
+    "name": "Meera Kulkarni",
+    "title": "Account Executive",
+    "company": "Dentsu",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0364",
+    "name": "Chirag Bose",
+    "title": "Customer Onboarding Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Noida",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0365",
+    "name": "Meera Rao",
+    "title": "Support Team Lead",
+    "company": "Chargebee",
+    "industry": "computer software",
+    "location": "Kolkata",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0366",
+    "name": "Farhan Singh",
+    "title": "Customer Success Lead",
+    "company": "PolicyBazaar",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 9,
+    "skills": []
+  },
+  {
+    "id": "cand_0367",
+    "name": "Gita Bose",
+    "title": "Head of Customer Success",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Negotiation",
+      "Project Management",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0368",
+    "name": "Pranav Rao",
+    "title": "Sales Development Representative",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Kolkata",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0369",
+    "name": "Manish Gupta",
+    "title": "Marketing Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Gurgaon",
+    "years_experience": 3,
+    "skills": [
+      "Campaign Management",
+      "Data Analysis",
+      "Google Ads",
+      "HubSpot",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0370",
+    "name": "Ramya Joshi",
+    "title": "Data Engineer",
+    "company": "Hindustan Unilever",
+    "industry": null,
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "AWS",
+      "Node.js",
+      "PostgreSQL",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0371",
+    "name": "Arpit Rao",
+    "title": "Customer Success Manager",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Account Management",
+      "Data Analysis",
+      "QBRs",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0372",
+    "name": "Rohan Nair",
+    "title": "Senior Product Manager",
+    "company": "NoBroker",
+    "industry": "real estate",
+    "location": "Mumbai",
+    "years_experience": 8,
+    "skills": [
+      "Data Analysis",
+      "Product Strategy",
+      "Project Management",
+      "SQL",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0373",
+    "name": "Hari Joshi",
+    "title": "CS Operations Manager",
+    "company": "Urban Company",
+    "industry": "internet",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Churn Reduction",
+      "Data Analysis",
+      "Onboarding",
+      "Project Management",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0374",
+    "name": "Deepak Bose",
+    "title": "CS Operations Manager",
+    "company": "Digit Insurance",
+    "industry": "insurance",
+    "location": "Mumbai",
+    "years_experience": 15,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Communication",
+      "Negotiation",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0375",
+    "name": "Neha Patel",
+    "title": "Data Engineer",
+    "company": "TCS",
+    "industry": "information technology and services",
+    "location": "Pune",
+    "years_experience": 9,
+    "skills": [
+      "Docker",
+      "Negotiation",
+      "Project Management",
+      "REST APIs",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0376",
+    "name": "Sanjana Malhotra",
+    "title": "Growth Marketing Manager",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Pune",
+    "years_experience": null,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Project Management",
+      "SEO",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0377",
+    "name": "Ishaan Kulkarni",
+    "title": "Customer Service Manager",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0378",
+    "name": "Hari Saxena",
+    "title": "Associate Product Manager",
+    "company": "Simplilearn",
+    "industry": "e-learning",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "Analytics",
+      "Communication",
+      "Negotiation",
+      "Product Strategy",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0379",
+    "name": "Tarun Mukherjee",
+    "title": "Head of Customer Success",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Pune",
+    "years_experience": 0,
+    "skills": [
+      "Account Management",
+      "Customer Success",
+      "Data Analysis",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0380",
+    "name": "Deepak Gupta",
+    "title": "Support Team Lead",
+    "company": "PharmEasy",
+    "industry": "hospital & health care",
+    "location": "Kolkata",
+    "years_experience": 9,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0381",
+    "name": "Deepak Patel",
+    "title": "Customer Success Specialist",
+    "company": "Meesho",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 7,
+    "skills": [
+      "CRM",
+      "Data Analysis",
+      "Negotiation",
+      "QBRs",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0382",
+    "name": "Sanjana Sharma",
+    "title": "Support Team Lead",
+    "company": "Unacademy",
+    "industry": "e-learning",
+    "location": "Remote",
+    "years_experience": 7,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0383",
+    "name": "Priya Chauhan",
+    "title": "Business Development Manager",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Mumbai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0384",
+    "name": "Aniket Pillai",
+    "title": "Backend Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Kubernetes",
+      "Negotiation",
+      "PostgreSQL",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0385",
+    "name": "Akhil Chauhan",
+    "title": "Technical Support Specialist",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0386",
+    "name": "Raj Patel",
+    "title": "Customer Success Lead",
+    "company": "PolicyBazaar",
+    "industry": "insurance",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Negotiation",
+      "Onboarding",
+      "Project Management",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0387",
+    "name": "Naina Jain",
+    "title": "Senior Software Engineer",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Node.js",
+      "React",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0388",
+    "name": "Kabir Bhat",
+    "title": "Customer Success Lead",
+    "company": "Rivigo",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 6,
+    "skills": [
+      "Customer Onboarding",
+      "Onboarding",
+      "Project Management",
+      "QBRs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0389",
+    "name": "Vikram Ghosh",
+    "title": "Customer Onboarding Manager",
+    "company": "1mg",
+    "industry": "hospital & health care",
+    "location": "Kolkata",
+    "years_experience": 9,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0390",
+    "name": "Arpit Saxena",
+    "title": "Implementation Consultant",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Kolkata",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0391",
+    "name": "Yash Gupta",
+    "title": "Onboarding Specialist",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Kolkata",
+    "years_experience": 15,
+    "skills": []
+  },
+  {
+    "id": "cand_0392",
+    "name": "Varun Das",
+    "title": "Customer Success Lead",
+    "company": "Airtel",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "Negotiation",
+      "QBRs",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0393",
+    "name": "Arjun Mishra",
+    "title": "Backend Engineer",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Docker",
+      "Kubernetes",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0394",
+    "name": "Karan Iyer",
+    "title": "Strategic Account Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0395",
+    "name": "Siddharth Chopra",
+    "title": "Senior Customer Success Manager",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Mumbai",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Gainsight",
+      "Onboarding",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0396",
+    "name": "Gita Chopra",
+    "title": "Full Stack Developer",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Delhi NCR",
+    "years_experience": 0,
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Project Management",
+      "Python",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0397",
+    "name": "Ramya Singh",
+    "title": "Customer Onboarding Manager",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": []
+  },
+  {
+    "id": "cand_0398",
+    "name": "Arjun Kulkarni",
+    "title": "Full Stack Developer",
+    "company": "WebEngage",
+    "industry": "computer software",
+    "location": "Chennai",
+    "years_experience": 5,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Negotiation",
+      "Node.js",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0399",
+    "name": "Arjun Pandey",
+    "title": "Customer Success Specialist",
+    "company": "Airtel",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Onboarding",
+      "Renewals",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0400",
+    "name": "Chirag Jain",
+    "title": "Business Development Manager",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0401",
+    "name": "Jyoti Saxena",
+    "title": "Associate Product Manager",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Mumbai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Product Strategy",
+      "Roadmapping",
+      "SQL"
+    ]
+  },
+  {
+    "id": "cand_0402",
+    "name": "Bhavna Jain",
+    "title": "Customer Success Specialist",
+    "company": "Swiggy",
+    "industry": "internet",
+    "location": "Mumbai",
+    "years_experience": null,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Negotiation",
+      "Onboarding",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0403",
+    "name": "Meera Jain",
+    "title": "CS Operations Manager",
+    "company": null,
+    "industry": "computer software",
+    "location": "Hyderabad",
+    "years_experience": 7,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Negotiation",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0404",
+    "name": "Divya Ghosh",
+    "title": "Customer Success Manager",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Hyderabad",
+    "years_experience": 4,
+    "skills": [
+      "Churn Reduction",
+      "Data Analysis",
+      "Gainsight",
+      "Onboarding",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0405",
+    "name": "Farhan Chopra",
+    "title": "Solutions Engineer",
+    "company": "Dentsu",
+    "industry": "marketing and advertising",
+    "location": "Mumbai",
+    "years_experience": 0,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Kubernetes",
+      "Project Management",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0406",
+    "name": "Pooja Kapoor",
+    "title": "Customer Success Specialist",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Gurgaon",
+    "years_experience": 10,
+    "skills": []
+  },
+  {
+    "id": "cand_0407",
+    "name": "Kabir Gupta",
+    "title": "Strategic Account Manager",
+    "company": "Byju's",
+    "industry": "e-learning",
+    "location": "Mumbai",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0408",
+    "name": "Rahul Iyer",
+    "title": "Senior Customer Success Manager",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Delhi NCR",
+    "years_experience": 9,
+    "skills": [
+      "Customer Onboarding",
+      "Customer Success",
+      "Negotiation",
+      "Project Management",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0409",
+    "name": "Gaurav Iyer",
+    "title": "Implementation Manager",
+    "company": "Credgenics",
+    "industry": "financial services",
+    "location": "Bangalore",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Fraud Detection",
+      "Negotiation",
+      "Risk Decisioning",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0410",
+    "name": "Neha Pandey",
+    "title": "Senior Customer Success Manager",
+    "company": "Sirion",
+    "industry": "computer software",
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Communication",
+      "Data Analysis",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0411",
+    "name": "Shubham Joshi",
+    "title": "Support Team Lead",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0412",
+    "name": "Zara Jain",
+    "title": "Senior Account Manager",
+    "company": "Mindtree",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0413",
+    "name": "Kabir Mehta",
+    "title": "Customer Success Lead",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Hyderabad",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Renewals",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0414",
+    "name": "Priya Jain",
+    "title": "Inside Sales Manager",
+    "company": "MobiKwik",
+    "industry": "financial services",
+    "location": "Mumbai",
+    "years_experience": 6,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0415",
+    "name": "Sneha Das",
+    "title": "Account Manager",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Delhi NCR",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0416",
+    "name": "Neha Pandey",
+    "title": "Implementation Manager",
+    "company": "Deloitte India",
+    "industry": "management consulting",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0417",
+    "name": "Raj Saxena",
+    "title": "Senior Product Manager",
+    "company": "MoEngage",
+    "industry": "computer software",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "Product Strategy",
+      "Project Management",
+      "SQL",
+      "User Research"
+    ]
+  },
+  {
+    "id": "cand_0418",
+    "name": "Meera Singh",
+    "title": "Customer Success Specialist",
+    "company": "ITC",
+    "industry": "consumer goods",
+    "location": "Kolkata",
+    "years_experience": 2,
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Negotiation",
+      "QBRs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0419",
+    "name": "Apoorva Joshi",
+    "title": "Inside Sales Manager",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Pune",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0420",
+    "name": "Harsha Pandey",
+    "title": "Implementation Consultant",
+    "company": "Schbang",
+    "industry": "marketing and advertising",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0421",
+    "name": "Shubham Sharma",
+    "title": "Senior Customer Success Manager",
+    "company": "DMart",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 10,
+    "skills": [
+      "Data Analysis",
+      "Gainsight",
+      "QBRs",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0422",
+    "name": "Siddharth Mehta",
+    "title": "CS Operations Manager",
+    "company": "Lendingkart",
+    "industry": "financial services",
+    "location": "Hyderabad",
+    "years_experience": 10,
+    "skills": [
+      "BFSI",
+      "Churn Reduction",
+      "Data Analysis",
+      "Lending",
+      "Negotiation",
+      "Payments",
+      "QBRs",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0423",
+    "name": "Faisal Menon",
+    "title": "Customer Success Associate",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Delhi NCR",
+    "years_experience": 8,
+    "skills": [
+      "Customer Onboarding",
+      "Gainsight",
+      "Negotiation",
+      "Team Leadership",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0424",
+    "name": "Deepak Malhotra",
+    "title": "Account Manager",
+    "company": "MoEngage",
+    "industry": "computer software",
+    "location": "Noida",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0425",
+    "name": "Nikhil Saxena",
+    "title": "Customer Success Associate",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Chennai",
+    "years_experience": 0,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Communication",
+      "Onboarding",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0426",
+    "name": "Varun Saxena",
+    "title": "Senior Account Manager",
+    "company": "DMart",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 15,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0427",
+    "name": "Ananya Menon",
+    "title": "Customer Success Associate",
+    "company": "Reliance Retail",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "Gainsight",
+      "Project Management",
+      "Renewals",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0428",
+    "name": "Manish Menon",
+    "title": "Customer Success Lead",
+    "company": null,
+    "industry": "consumer goods",
+    "location": "Remote",
+    "years_experience": 9,
+    "skills": [
+      "Churn Reduction",
+      "Customer Success",
+      "Data Analysis",
+      "Gainsight",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0429",
+    "name": "Arjun Gupta",
+    "title": "Senior Account Manager",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Chennai",
+    "years_experience": 12,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0430",
+    "name": "Meera Patel",
+    "title": "Customer Success Associate",
+    "company": "Tech Mahindra",
+    "industry": "information technology and services",
+    "location": "Remote",
+    "years_experience": 10,
+    "skills": [
+      "Account Management",
+      "Customer Success",
+      "Data Analysis",
+      "Project Management",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0431",
+    "name": "Riya Chopra",
+    "title": "Senior Customer Success Manager",
+    "company": "Tech Mahindra",
+    "industry": "information technology and services",
+    "location": "Bangalore",
+    "years_experience": 4,
+    "skills": [
+      "Customer Onboarding",
+      "Data Analysis",
+      "Negotiation",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0432",
+    "name": "Pallavi Iyer",
+    "title": "Solutions Engineer",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "JavaScript",
+      "Project Management",
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "id": "cand_0433",
+    "name": "Naina Bose",
+    "title": "Business Development Manager",
+    "company": "Cloudnine",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0434",
+    "name": "Ananya Das",
+    "title": "Customer Success Associate",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": []
+  },
+  {
+    "id": "cand_0435",
+    "name": "Sourav Chauhan",
+    "title": "Business Development Manager",
+    "company": "upGrad",
+    "industry": "e-learning",
+    "location": "Pune",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0436",
+    "name": "Jyoti Kulkarni",
+    "title": "Senior Customer Success Manager",
+    "company": "Postman",
+    "industry": "computer software",
+    "location": "Gurgaon",
+    "years_experience": 10,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Gainsight",
+      "Negotiation",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0437",
+    "name": "Deepak Kulkarni",
+    "title": "Customer Success Associate",
+    "company": "Lenskart",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 5,
+    "skills": [
+      "Churn Reduction",
+      "Gainsight",
+      "Project Management",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0438",
+    "name": "Ishaan Nair",
+    "title": "Senior Customer Success Manager",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Mumbai",
+    "years_experience": null,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Data Analysis",
+      "QBRs",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0439",
+    "name": "Hari Khan",
+    "title": "Account Executive",
+    "company": "Ogilvy India",
+    "industry": "marketing and advertising",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0440",
+    "name": "Divya Mishra",
+    "title": "Customer Success Associate",
+    "company": "Jio",
+    "industry": "telecommunications",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Churn Reduction",
+      "Negotiation",
+      "QBRs",
+      "Salesforce",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0441",
+    "name": "Gita Ghosh",
+    "title": "Sales Development Representative",
+    "company": "Wipro",
+    "industry": "information technology and services",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0442",
+    "name": "Ishaan Bose",
+    "title": "Customer Success Associate",
+    "company": "Rivigo",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": null,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Communication",
+      "Data Analysis",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0443",
+    "name": "Rahul Reddy",
+    "title": "Account Executive",
+    "company": "McKinsey India",
+    "industry": "management consulting",
+    "location": "Hyderabad",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0444",
+    "name": "Gaurav Sharma",
+    "title": "CS Operations Manager",
+    "company": "Rivigo",
+    "industry": null,
+    "location": "Chennai",
+    "years_experience": 5,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Data Analysis",
+      "QBRs",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0445",
+    "name": "Meera Gupta",
+    "title": "Marketing Manager",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Remote",
+    "years_experience": 3,
+    "skills": [
+      "Campaign Management",
+      "Data Analysis",
+      "HubSpot",
+      "Negotiation",
+      "SEO"
+    ]
+  },
+  {
+    "id": "cand_0446",
+    "name": "Rahul Bose",
+    "title": "Full Stack Developer",
+    "company": null,
+    "industry": "hospital & health care",
+    "location": "Noida",
+    "years_experience": 6,
+    "skills": [
+      "AWS",
+      "Communication",
+      "JavaScript",
+      "Project Management",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0447",
+    "name": "Gaurav Rao",
+    "title": "Marketing Manager",
+    "company": "Navi",
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "HubSpot",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0448",
+    "name": "Rahul Bose",
+    "title": "Implementation Consultant",
+    "company": "LTIMindtree",
+    "industry": "information technology and services",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0449",
+    "name": "Pranav Verma",
+    "title": "Technical Support Specialist",
+    "company": "FabIndia",
+    "industry": "retail",
+    "location": "Bangalore",
+    "years_experience": 8,
+    "skills": [
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0450",
+    "name": "Sourav Mukherjee",
+    "title": "Inside Sales Manager",
+    "company": "Vi",
+    "industry": "telecommunications",
+    "location": "Remote",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0451",
+    "name": "Aditi Pillai",
+    "title": "Technical Support Specialist",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0452",
+    "name": "Kabir Singh",
+    "title": "Technical Support Specialist",
+    "company": null,
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0453",
+    "name": "Aditi Chauhan",
+    "title": "Solutions Engineer",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Data Analysis",
+      "Kubernetes",
+      "Negotiation",
+      "PostgreSQL",
+      "Python"
+    ]
+  },
+  {
+    "id": "cand_0454",
+    "name": "Faisal Menon",
+    "title": "Customer Success Lead",
+    "company": null,
+    "industry": "e-learning",
+    "location": "Noida",
+    "years_experience": 5,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Data Analysis",
+      "Renewals",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "id": "cand_0455",
+    "name": "Tarun Mishra",
+    "title": "Senior Software Engineer",
+    "company": "Apollo",
+    "industry": "hospital & health care",
+    "location": "Remote",
+    "years_experience": 1,
+    "skills": []
+  },
+  {
+    "id": "cand_0456",
+    "name": "Manish Gupta",
+    "title": "Business Development Manager",
+    "company": "Housing.com",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": 12,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0457",
+    "name": "Sneha Kulkarni",
+    "title": "Sales Development Representative",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0458",
+    "name": "Esha Kulkarni",
+    "title": "Strategic Account Manager",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0459",
+    "name": "Rahul Mukherjee",
+    "title": "Senior Customer Success Manager",
+    "company": "BharatPe",
+    "industry": "financial services",
+    "location": "Hyderabad",
+    "years_experience": 8,
+    "skills": [
+      "Customer Success",
+      "Negotiation",
+      "Payments",
+      "QBRs",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0460",
+    "name": "Esha Pandey",
+    "title": "Customer Success Lead",
+    "company": "McKinsey India",
+    "industry": "management consulting",
+    "location": "Mumbai",
+    "years_experience": 1,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Data Analysis",
+      "Salesforce",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0461",
+    "name": "Rohan Dubey",
+    "title": "Marketing Manager",
+    "company": "Ecom Express",
+    "industry": "logistics and supply chain",
+    "location": "Kolkata",
+    "years_experience": 2,
+    "skills": [
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "SEO",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0462",
+    "name": "Ishaan Nair",
+    "title": "Content Marketing Specialist",
+    "company": "PharmEasy",
+    "industry": "hospital & health care",
+    "location": "Mumbai",
+    "years_experience": 7,
+    "skills": [
+      "Campaign Management",
+      "Content Marketing",
+      "Data Analysis",
+      "HubSpot",
+      "Negotiation"
+    ]
+  },
+  {
+    "id": "cand_0463",
+    "name": "Sourav Singh",
+    "title": "Head of Customer Success",
+    "company": "Vedantu",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 9,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Negotiation",
+      "Onboarding",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0464",
+    "name": "Karan Mukherjee",
+    "title": "Backend Engineer",
+    "company": "Square Yards",
+    "industry": "real estate",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "JavaScript",
+      "Negotiation",
+      "Node.js",
+      "PostgreSQL",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0465",
+    "name": "Ishaan Mishra",
+    "title": "Account Manager",
+    "company": "Acko",
+    "industry": "insurance",
+    "location": "Delhi NCR",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0466",
+    "name": "Bhavna Iyer",
+    "title": "Growth Marketing Manager",
+    "company": "Cloudnine",
+    "industry": "hospital & health care",
+    "location": "Noida",
+    "years_experience": null,
+    "skills": []
+  },
+  {
+    "id": "cand_0467",
+    "name": "Harsha Agarwal",
+    "title": "Senior Software Engineer",
+    "company": "Reliance Retail",
+    "industry": "retail",
+    "location": "Noida",
+    "years_experience": 6,
+    "skills": [
+      "JavaScript",
+      "Negotiation",
+      "PostgreSQL",
+      "REST APIs",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0468",
+    "name": "Priya Mishra",
+    "title": "Solutions Engineer",
+    "company": "Airtel",
+    "industry": null,
+    "location": "Delhi NCR",
+    "years_experience": 8,
+    "skills": [
+      "AWS",
+      "Node.js",
+      "PostgreSQL",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0469",
+    "name": "Siddharth Menon",
+    "title": "Backend Engineer",
+    "company": "Infosys",
+    "industry": null,
+    "location": "Gurgaon",
+    "years_experience": 12,
+    "skills": [
+      "JavaScript",
+      "Project Management",
+      "React",
+      "Team Leadership",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "cand_0470",
+    "name": "Payal Ghosh",
+    "title": "Customer Support Executive",
+    "company": "Swiggy",
+    "industry": "internet",
+    "location": "Chennai",
+    "years_experience": 10,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0471",
+    "name": "Sanjana Gupta",
+    "title": "Customer Service Manager",
+    "company": "Dream11",
+    "industry": null,
+    "location": "Noida",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0472",
+    "name": "Aarav Chopra",
+    "title": "Client Relationship Manager",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0473",
+    "name": "Hari Joshi",
+    "title": "Customer Success Associate",
+    "company": null,
+    "industry": "financial services",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Communication",
+      "Customer Success",
+      "Fraud Detection",
+      "Payments",
+      "Project Management",
+      "QBRs",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0474",
+    "name": "Farhan Malhotra",
+    "title": "Senior Customer Success Manager",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Delhi NCR",
+    "years_experience": 5,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Data Analysis",
+      "Gainsight",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0475",
+    "name": "Gita Pandey",
+    "title": "Senior Account Manager",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Noida",
+    "years_experience": 4,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0476",
+    "name": "Harsha Nair",
+    "title": "CS Operations Manager",
+    "company": "Dabur",
+    "industry": null,
+    "location": "Bangalore",
+    "years_experience": 1,
+    "skills": [
+      "Customer Success",
+      "Data Analysis",
+      "Onboarding",
+      "Project Management",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0477",
+    "name": "Rahul Malhotra",
+    "title": "Inside Sales Manager",
+    "company": "Payoneer",
+    "industry": "financial services",
+    "location": "Chennai",
+    "years_experience": 12,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0478",
+    "name": "Sahil Sharma",
+    "title": "Enterprise Account Manager",
+    "company": null,
+    "industry": "marketing and advertising",
+    "location": "Kolkata",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0479",
+    "name": "Sahil Saxena",
+    "title": "Product Manager",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "Analytics",
+      "Communication",
+      "Data Analysis",
+      "Product Strategy",
+      "Roadmapping"
+    ]
+  },
+  {
+    "id": "cand_0480",
+    "name": "Siddharth Menon",
+    "title": "Backend Engineer",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": null,
+    "skills": []
+  },
+  {
+    "id": "cand_0481",
+    "name": "Kabir Ghosh",
+    "title": "Customer Service Manager",
+    "company": "Chargebee",
+    "industry": "computer software",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0482",
+    "name": "Gita Bhat",
+    "title": "Customer Success Lead",
+    "company": "Star Health",
+    "industry": "insurance",
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Account Management",
+      "Churn Reduction",
+      "Onboarding",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0483",
+    "name": "Payal Agarwal",
+    "title": "Customer Service Manager",
+    "company": "MoEngage",
+    "industry": "computer software",
+    "location": "Hyderabad",
+    "years_experience": 3,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0484",
+    "name": "Payal Patel",
+    "title": "Account Executive",
+    "company": "Airtel",
+    "industry": "telecommunications",
+    "location": "Chennai",
+    "years_experience": 8,
+    "skills": []
+  },
+  {
+    "id": "cand_0485",
+    "name": "Arpit Malhotra",
+    "title": "Customer Success Manager",
+    "company": "Dabur",
+    "industry": "consumer goods",
+    "location": "Remote",
+    "years_experience": null,
+    "skills": [
+      "Churn Reduction",
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Upsells"
+    ]
+  },
+  {
+    "id": "cand_0486",
+    "name": "Pallavi Pandey",
+    "title": "Customer Success Lead",
+    "company": "Delhivery",
+    "industry": "logistics and supply chain",
+    "location": "Noida",
+    "years_experience": 1,
+    "skills": [
+      "CRM",
+      "Churn Reduction",
+      "Data Analysis",
+      "Project Management",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "cand_0487",
+    "name": "Payal Mukherjee",
+    "title": "Head of Customer Success",
+    "company": "BCG India",
+    "industry": "management consulting",
+    "location": "Bangalore",
+    "years_experience": 2,
+    "skills": [
+      "Account Management",
+      "Communication",
+      "Customer Success",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0488",
+    "name": "Shreya Kulkarni",
+    "title": "Content Marketing Specialist",
+    "company": "Ogilvy India",
+    "industry": null,
+    "location": "Remote",
+    "years_experience": 4,
+    "skills": [
+      "Communication",
+      "Content Marketing",
+      "Google Ads",
+      "HubSpot",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0489",
+    "name": "Siddharth Nair",
+    "title": "Customer Success Manager",
+    "company": null,
+    "industry": "logistics and supply chain",
+    "location": "Gurgaon",
+    "years_experience": 9,
+    "skills": [
+      "Communication",
+      "Gainsight",
+      "QBRs",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0490",
+    "name": "Rahul Chopra",
+    "title": "Customer Success Specialist",
+    "company": null,
+    "industry": "internet",
+    "location": "Bangalore",
+    "years_experience": 8,
+    "skills": []
+  },
+  {
+    "id": "cand_0491",
+    "name": "Vikram Pillai",
+    "title": "Solutions Engineer",
+    "company": "Rivigo",
+    "industry": "logistics and supply chain",
+    "location": "Remote",
+    "years_experience": 9,
+    "skills": [
+      "Data Analysis",
+      "Negotiation",
+      "Node.js",
+      "Python",
+      "REST APIs"
+    ]
+  },
+  {
+    "id": "cand_0492",
+    "name": "Payal Pillai",
+    "title": "Implementation Manager",
+    "company": "Mindtree",
+    "industry": null,
+    "location": "Pune",
+    "years_experience": 0,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Negotiation",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0493",
+    "name": "Priya Joshi",
+    "title": "Onboarding Specialist",
+    "company": "BharatPe",
+    "industry": "financial services",
+    "location": "Chennai",
+    "years_experience": 3,
+    "skills": [
+      "BFSI",
+      "Data Analysis",
+      "Fraud Detection",
+      "Negotiation",
+      "Project Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0494",
+    "name": "Sneha Chopra",
+    "title": "Senior Customer Success Manager",
+    "company": "Ogilvy India",
+    "industry": null,
+    "location": "Delhi NCR",
+    "years_experience": 1,
+    "skills": [
+      "Customer Onboarding",
+      "Data Analysis",
+      "Negotiation",
+      "Onboarding",
+      "Renewals"
+    ]
+  },
+  {
+    "id": "cand_0495",
+    "name": "Farhan Khan",
+    "title": "Customer Success Manager",
+    "company": "Hindustan Unilever",
+    "industry": "consumer goods",
+    "location": "Pune",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Customer Onboarding",
+      "Negotiation",
+      "Onboarding",
+      "QBRs"
+    ]
+  },
+  {
+    "id": "cand_0496",
+    "name": "Zara Joshi",
+    "title": "Inside Sales Manager",
+    "company": "Wipro",
+    "industry": "information technology and services",
+    "location": "Bangalore",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "cand_0497",
+    "name": "Akhil Bose",
+    "title": "Marketing Manager",
+    "company": "Zoho",
+    "industry": "computer software",
+    "location": "Mumbai",
+    "years_experience": 12,
+    "skills": [
+      "Content Marketing",
+      "HubSpot",
+      "Project Management",
+      "SEO",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0498",
+    "name": "Bhavna Nair",
+    "title": "Customer Success Specialist",
+    "company": "Flipkart",
+    "industry": "internet",
+    "location": "Mumbai",
+    "years_experience": 5,
+    "skills": [
+      "CRM",
+      "Communication",
+      "Renewals",
+      "Stakeholder Management",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0499",
+    "name": "Shubham Bhat",
+    "title": "Enterprise Account Manager",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Gurgaon",
+    "years_experience": 5,
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Team Leadership"
+    ]
+  },
+  {
+    "id": "cand_0500",
+    "name": "Yash Sharma",
+    "title": "Product Manager",
+    "company": "Vedantu",
+    "industry": "e-learning",
+    "location": "Kolkata",
+    "years_experience": 2,
+    "skills": []
+  }
+]
